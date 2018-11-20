@@ -5,5 +5,6 @@
 
 int main(void)
 {
+	tooti
     return 0;
 }
